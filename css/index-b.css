@@ -1383,7 +1383,7 @@ nav.navbar-default {
   margin-top: 22px;
 }
 
-@media screen and (max-width: 999px) {
+@media screen and (max-width: 800px) {
   .fotos-doisB {
     width: 100%;
     height: 380px;
@@ -1412,7 +1412,7 @@ nav.navbar-default {
   overflow: auto;
 }
 
-@media screen and (max-width: 999px) {
+@media screen and (max-width: 800px) {
   .fotos-dois {
     float: left;
     margin-top: 30px;
