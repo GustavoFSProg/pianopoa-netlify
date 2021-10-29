@@ -1386,15 +1386,15 @@ nav.navbar-default {
 @media screen and (max-width: 800px) {
   .fotos-doisB {
     width: 100%;
-    height: 380px;
+    height: 440px;
     margin-left: 1px;
   }
 
   .fotos-doisB img {
     width: 100%;
-    height: 340px;
+    height: 400px;
     margin-top: 1px;
-    background: red;
+    /* background: red; */
   }
 }
 
